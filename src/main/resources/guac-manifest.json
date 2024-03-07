@@ -1,0 +1,10 @@
+{
+  "guacamoleVersion" : "1.5.4",
+
+  "name"      : "Kubernetes Remote Desktop",
+  "namespace" : "guacamole-k8s",
+
+  "authProviders" : [
+    "com.nikhiljha.guacamole-k8s.KubernetesAuthenticator"
+  ]
+}
