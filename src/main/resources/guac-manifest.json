@@ -5,6 +5,6 @@
   "namespace" : "guacamole-k8s",
 
   "authProviders" : [
-    "com.nikhiljha.guacamole-k8s.KubernetesAuthenticator"
+    "com.nikhiljha.guacamole_k8s.KubernetesAuthenticator"
   ]
 }
